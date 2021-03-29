@@ -1,0 +1,31 @@
+div#d2 {
+    background-image: none;
+}
+div#d2bc {
+    background-image: none;
+    background-size: cover;
+}
+
+.uzr.fl.corner.borderg.mm {
+    background-color: white !important;
+    border-top: 1px solid #e8dddd!important;
+    border-bottom: 1px solid #d4d2d2!important;
+    margin-bottom: 0!important;
+    width: 99%!important;
+}
+.u-msg.break.fl {
+    color: #020202 !important;
+}
+
+.uzr.fl.corner.borderg.pmsgc.mm {
+    background-color: rgba(0, 77, 255, 0.08) !important;
+}
+.d2.filh.break.light {
+    background-color: #fffcfc !important;
+}
+.uzr.fl.corner.borderg.hmsg.mm {
+    background-color: linen !important;
+}
+span.fr {
+    color: #333;
+}
